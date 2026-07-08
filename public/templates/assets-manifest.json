@@ -1,0 +1,606 @@
+{
+ "celestial": [
+  {
+   "name": "c-ascent.jpg",
+   "url": "/templates/assets/celestial/c-ascent.jpg"
+  },
+  {
+   "name": "c-ascent.png",
+   "url": "/templates/assets/celestial/c-ascent.png"
+  },
+  {
+   "name": "c-blessing.jpg",
+   "url": "/templates/assets/celestial/c-blessing.jpg"
+  },
+  {
+   "name": "c-blessing.png",
+   "url": "/templates/assets/celestial/c-blessing.png"
+  },
+  {
+   "name": "c-cluster.jpg",
+   "url": "/templates/assets/celestial/c-cluster.jpg"
+  },
+  {
+   "name": "c-cluster.png",
+   "url": "/templates/assets/celestial/c-cluster.png"
+  },
+  {
+   "name": "c-galaxy.jpg",
+   "url": "/templates/assets/celestial/c-galaxy.jpg"
+  },
+  {
+   "name": "c-galaxy.png",
+   "url": "/templates/assets/celestial/c-galaxy.png"
+  },
+  {
+   "name": "c-hero.jpg",
+   "url": "/templates/assets/celestial/c-hero.jpg"
+  },
+  {
+   "name": "c-hero.png",
+   "url": "/templates/assets/celestial/c-hero.png"
+  },
+  {
+   "name": "c-moon.jpg",
+   "url": "/templates/assets/celestial/c-moon.jpg"
+  },
+  {
+   "name": "c-moon.png",
+   "url": "/templates/assets/celestial/c-moon.png"
+  },
+  {
+   "name": "c-nebula.jpg",
+   "url": "/templates/assets/celestial/c-nebula.jpg"
+  },
+  {
+   "name": "c-nebula.png",
+   "url": "/templates/assets/celestial/c-nebula.png"
+  },
+  {
+   "name": "c-place.jpg",
+   "url": "/templates/assets/celestial/c-place.jpg"
+  },
+  {
+   "name": "c-place.png",
+   "url": "/templates/assets/celestial/c-place.png"
+  },
+  {
+   "name": "c-summit.jpg",
+   "url": "/templates/assets/celestial/c-summit.jpg"
+  },
+  {
+   "name": "c-summit.png",
+   "url": "/templates/assets/celestial/c-summit.png"
+  },
+  {
+   "name": "clouds-1.png",
+   "url": "/templates/assets/celestial/cutouts/clouds-1.png"
+  },
+  {
+   "name": "clouds-2.png",
+   "url": "/templates/assets/celestial/cutouts/clouds-2.png"
+  },
+  {
+   "name": "comet.png",
+   "url": "/templates/assets/celestial/cutouts/comet.png"
+  },
+  {
+   "name": "couple.png",
+   "url": "/templates/assets/celestial/cutouts/couple.png"
+  },
+  {
+   "name": "cranes.png",
+   "url": "/templates/assets/celestial/cutouts/cranes.png"
+  },
+  {
+   "name": "galaxy-arm.png",
+   "url": "/templates/assets/celestial/cutouts/galaxy-arm.png"
+  },
+  {
+   "name": "il-arch.png",
+   "url": "/templates/assets/celestial/cutouts/il-arch.png"
+  },
+  {
+   "name": "il-couple-crescent.png",
+   "url": "/templates/assets/celestial/cutouts/il-couple-crescent.png"
+  },
+  {
+   "name": "il-couple-dance.png",
+   "url": "/templates/assets/celestial/cutouts/il-couple-dance.png"
+  },
+  {
+   "name": "il-couple-path.png",
+   "url": "/templates/assets/celestial/cutouts/il-couple-path.png"
+  },
+  {
+   "name": "il-doves.png",
+   "url": "/templates/assets/celestial/cutouts/il-doves.png"
+  },
+  {
+   "name": "il-elephant.png",
+   "url": "/templates/assets/celestial/cutouts/il-elephant.png"
+  },
+  {
+   "name": "il-florals.png",
+   "url": "/templates/assets/celestial/cutouts/il-florals.png"
+  },
+  {
+   "name": "il-mandap.png",
+   "url": "/templates/assets/celestial/cutouts/il-mandap.png"
+  },
+  {
+   "name": "il-peacock.png",
+   "url": "/templates/assets/celestial/cutouts/il-peacock.png"
+  },
+  {
+   "name": "moon-disc.png",
+   "url": "/templates/assets/celestial/cutouts/moon-disc.png"
+  },
+  {
+   "name": "motif-candelabra.png",
+   "url": "/templates/assets/celestial/cutouts/motif-candelabra.png"
+  },
+  {
+   "name": "motif-dholak.png",
+   "url": "/templates/assets/celestial/cutouts/motif-dholak.png"
+  },
+  {
+   "name": "motif-mehndi.png",
+   "url": "/templates/assets/celestial/cutouts/motif-mehndi.png"
+  },
+  {
+   "name": "motif-rings.png",
+   "url": "/templates/assets/celestial/cutouts/motif-rings.png"
+  },
+  {
+   "name": "observatory.png",
+   "url": "/templates/assets/celestial/cutouts/observatory.png"
+  },
+  {
+   "name": "orn-divider.png",
+   "url": "/templates/assets/celestial/cutouts/orn-divider.png"
+  },
+  {
+   "name": "orn-medallion.png",
+   "url": "/templates/assets/celestial/cutouts/orn-medallion.png"
+  },
+  {
+   "name": "orn-skyline.png",
+   "url": "/templates/assets/celestial/cutouts/orn-skyline.png"
+  },
+  {
+   "name": "orn-string.png",
+   "url": "/templates/assets/celestial/cutouts/orn-string.png"
+  },
+  {
+   "name": "p1-portrait.png",
+   "url": "/templates/assets/celestial/scrapbook/p1-portrait.png"
+  },
+  {
+   "name": "p2-silhouette.png",
+   "url": "/templates/assets/celestial/scrapbook/p2-silhouette.png"
+  },
+  {
+   "name": "p3-dance.png",
+   "url": "/templates/assets/celestial/scrapbook/p3-dance.png"
+  },
+  {
+   "name": "p4-laugh.png",
+   "url": "/templates/assets/celestial/scrapbook/p4-laugh.png"
+  },
+  {
+   "name": "p5-hands.png",
+   "url": "/templates/assets/celestial/scrapbook/p5-hands.png"
+  },
+  {
+   "name": "p6-stargaze.png",
+   "url": "/templates/assets/celestial/scrapbook/p6-stargaze.png"
+  },
+  {
+   "name": "planet-crescent.png",
+   "url": "/templates/assets/celestial/cutouts/planet-crescent.png"
+  },
+  {
+   "name": "planet-distant.png",
+   "url": "/templates/assets/celestial/cutouts/planet-distant.png"
+  },
+  {
+   "name": "planet-ringed.png",
+   "url": "/templates/assets/celestial/cutouts/planet-ringed.png"
+  },
+  {
+   "name": "rail.png",
+   "url": "/templates/assets/celestial/cutouts/rail.png"
+  }
+ ],
+ "enchanted-arch": [
+  {
+   "name": "arch.webp",
+   "url": "/templates/assets/enchanted-arch/arch.webp"
+  },
+  {
+   "name": "bg.webp",
+   "url": "/templates/assets/enchanted-arch/bg.webp"
+  },
+  {
+   "name": "cloud.webp",
+   "url": "/templates/assets/enchanted-arch/cloud.webp"
+  },
+  {
+   "name": "flower-border.webp",
+   "url": "/templates/assets/enchanted-arch/flower-border.webp"
+  },
+  {
+   "name": "inner-scene.webp",
+   "url": "/templates/assets/enchanted-arch/inner-scene.webp"
+  },
+  {
+   "name": "lantern-big.webp",
+   "url": "/templates/assets/enchanted-arch/lantern-big.webp"
+  },
+  {
+   "name": "lantern-pair.webp",
+   "url": "/templates/assets/enchanted-arch/lantern-pair.webp"
+  },
+  {
+   "name": "lily-cluster.webp",
+   "url": "/templates/assets/enchanted-arch/lily-cluster.webp"
+  },
+  {
+   "name": "lily-single.webp",
+   "url": "/templates/assets/enchanted-arch/lily-single.webp"
+  },
+  {
+   "name": "moon-stars.webp",
+   "url": "/templates/assets/enchanted-arch/moon-stars.webp"
+  },
+  {
+   "name": "standing-lantern.webp",
+   "url": "/templates/assets/enchanted-arch/standing-lantern.webp"
+  }
+ ],
+ "lotus": [
+  {
+   "name": "1-c-moon.jpg",
+   "url": "/templates/assets/lotus/1-c-moon.jpg"
+  },
+  {
+   "name": "2-c-stars.jpg",
+   "url": "/templates/assets/lotus/2-c-stars.jpg"
+  },
+  {
+   "name": "3-c-clouds.jpg",
+   "url": "/templates/assets/lotus/3-c-clouds.jpg"
+  },
+  {
+   "name": "4-c-lake.jpg",
+   "url": "/templates/assets/lotus/4-c-lake.jpg"
+  },
+  {
+   "name": "5-c-water.jpg",
+   "url": "/templates/assets/lotus/5-c-water.jpg"
+  },
+  {
+   "name": "6-c-lotus.jpg",
+   "url": "/templates/assets/lotus/6-c-lotus.jpg"
+  },
+  {
+   "name": "anchor.png",
+   "url": "/templates/assets/lotus/anchor.png"
+  },
+  {
+   "name": "c-clouds.jpg",
+   "url": "/templates/assets/lotus/c-clouds.jpg"
+  },
+  {
+   "name": "c-lake.jpg",
+   "url": "/templates/assets/lotus/c-lake.jpg"
+  },
+  {
+   "name": "c-lotus.jpg",
+   "url": "/templates/assets/lotus/c-lotus.jpg"
+  },
+  {
+   "name": "c-moon.jpg",
+   "url": "/templates/assets/lotus/c-moon.jpg"
+  },
+  {
+   "name": "c-stars.jpg",
+   "url": "/templates/assets/lotus/c-stars.jpg"
+  },
+  {
+   "name": "c-water.jpg",
+   "url": "/templates/assets/lotus/c-water.jpg"
+  },
+  {
+   "name": "il-boat-couple.png",
+   "url": "/templates/assets/lotus/cutouts/il-boat-couple.png"
+  },
+  {
+   "name": "il-cottage.png",
+   "url": "/templates/assets/lotus/cutouts/il-cottage.png"
+  },
+  {
+   "name": "il-distant-isle.png",
+   "url": "/templates/assets/lotus/cutouts/il-distant-isle.png"
+  },
+  {
+   "name": "il-lilypad-field.png",
+   "url": "/templates/assets/lotus/cutouts/il-lilypad-field.png"
+  },
+  {
+   "name": "il-lotus-bed.png",
+   "url": "/templates/assets/lotus/cutouts/il-lotus-bed.png"
+  },
+  {
+   "name": "il-pavilion.png",
+   "url": "/templates/assets/lotus/cutouts/il-pavilion.png"
+  },
+  {
+   "name": "il-reed-bank.png",
+   "url": "/templates/assets/lotus/cutouts/il-reed-bank.png"
+  },
+  {
+   "name": "il-shoreline.png",
+   "url": "/templates/assets/lotus/cutouts/il-shoreline.png"
+  },
+  {
+   "name": "il-swans.png",
+   "url": "/templates/assets/lotus/cutouts/il-swans.png"
+  },
+  {
+   "name": "il-willow.png",
+   "url": "/templates/assets/lotus/cutouts/il-willow.png"
+  },
+  {
+   "name": "motif-blossom-spray.png",
+   "url": "/templates/assets/lotus/cutouts/motif-blossom-spray.png"
+  },
+  {
+   "name": "motif-crane-fly.png",
+   "url": "/templates/assets/lotus/cutouts/motif-crane-fly.png"
+  },
+  {
+   "name": "motif-crane.png",
+   "url": "/templates/assets/lotus/cutouts/motif-crane.png"
+  },
+  {
+   "name": "motif-crescent.png",
+   "url": "/templates/assets/lotus/cutouts/motif-crescent.png"
+  },
+  {
+   "name": "motif-diya.png",
+   "url": "/templates/assets/lotus/cutouts/motif-diya.png"
+  },
+  {
+   "name": "motif-dragonfly.png",
+   "url": "/templates/assets/lotus/cutouts/motif-dragonfly.png"
+  },
+  {
+   "name": "motif-firefly-cluster.png",
+   "url": "/templates/assets/lotus/cutouts/motif-firefly-cluster.png"
+  },
+  {
+   "name": "motif-koi.png",
+   "url": "/templates/assets/lotus/cutouts/motif-koi.png"
+  },
+  {
+   "name": "motif-lantern.png",
+   "url": "/templates/assets/lotus/cutouts/motif-lantern.png"
+  },
+  {
+   "name": "motif-leaf-floating.png",
+   "url": "/templates/assets/lotus/cutouts/motif-leaf-floating.png"
+  },
+  {
+   "name": "motif-lilypad.png",
+   "url": "/templates/assets/lotus/cutouts/motif-lilypad.png"
+  },
+  {
+   "name": "motif-lotus-bud.png",
+   "url": "/templates/assets/lotus/cutouts/motif-lotus-bud.png"
+  },
+  {
+   "name": "motif-lotus-open.png",
+   "url": "/templates/assets/lotus/cutouts/motif-lotus-open.png"
+  },
+  {
+   "name": "motif-lotus-side.png",
+   "url": "/templates/assets/lotus/cutouts/motif-lotus-side.png"
+  },
+  {
+   "name": "motif-lotus-trio.png",
+   "url": "/templates/assets/lotus/cutouts/motif-lotus-trio.png"
+  },
+  {
+   "name": "motif-moon.png",
+   "url": "/templates/assets/lotus/cutouts/motif-moon.png"
+  },
+  {
+   "name": "motif-petal-single.png",
+   "url": "/templates/assets/lotus/cutouts/motif-petal-single.png"
+  },
+  {
+   "name": "motif-reeds.png",
+   "url": "/templates/assets/lotus/cutouts/motif-reeds.png"
+  },
+  {
+   "name": "motif-ripple.png",
+   "url": "/templates/assets/lotus/cutouts/motif-ripple.png"
+  },
+  {
+   "name": "motif-shooting-star.png",
+   "url": "/templates/assets/lotus/cutouts/motif-shooting-star.png"
+  },
+  {
+   "name": "motif-star-cluster.png",
+   "url": "/templates/assets/lotus/cutouts/motif-star-cluster.png"
+  },
+  {
+   "name": "motif-water-grass.png",
+   "url": "/templates/assets/lotus/cutouts/motif-water-grass.png"
+  },
+  {
+   "name": "orn-cloud-wisp.png",
+   "url": "/templates/assets/lotus/cutouts/orn-cloud-wisp.png"
+  },
+  {
+   "name": "orn-corner.png",
+   "url": "/templates/assets/lotus/cutouts/orn-corner.png"
+  },
+  {
+   "name": "orn-divider-lotus.png",
+   "url": "/templates/assets/lotus/cutouts/orn-divider-lotus.png"
+  },
+  {
+   "name": "orn-frame-arch.png",
+   "url": "/templates/assets/lotus/cutouts/orn-frame-arch.png"
+  },
+  {
+   "name": "orn-frame-oval.png",
+   "url": "/templates/assets/lotus/cutouts/orn-frame-oval.png"
+  },
+  {
+   "name": "orn-medallion-moon.png",
+   "url": "/templates/assets/lotus/cutouts/orn-medallion-moon.png"
+  },
+  {
+   "name": "orn-reflection.png",
+   "url": "/templates/assets/lotus/cutouts/orn-reflection.png"
+  },
+  {
+   "name": "orn-string-lanterns.png",
+   "url": "/templates/assets/lotus/cutouts/orn-string-lanterns.png"
+  }
+ ],
+ "storybook-night": [
+  {
+   "name": "balloon.webp",
+   "url": "/templates/assets/storybook-night/balloon.webp"
+  },
+  {
+   "name": "bg-cover.webp",
+   "url": "/templates/assets/storybook-night/bg-cover.webp"
+  },
+  {
+   "name": "bg-details.webp",
+   "url": "/templates/assets/storybook-night/bg-details.webp"
+  },
+  {
+   "name": "border-gold.webp",
+   "url": "/templates/assets/storybook-night/border-gold.webp"
+  },
+  {
+   "name": "castle.webp",
+   "url": "/templates/assets/storybook-night/castle.webp"
+  },
+  {
+   "name": "cloud-a.webp",
+   "url": "/templates/assets/storybook-night/cloud-a.webp"
+  },
+  {
+   "name": "cloud-b.webp",
+   "url": "/templates/assets/storybook-night/cloud-b.webp"
+  },
+  {
+   "name": "moon.webp",
+   "url": "/templates/assets/storybook-night/moon.webp"
+  }
+ ],
+ "storybook-sunset": [
+  {
+   "name": "balloon.webp",
+   "url": "/templates/assets/storybook-sunset/balloon.webp"
+  },
+  {
+   "name": "bg-cover.webp",
+   "url": "/templates/assets/storybook-sunset/bg-cover.webp"
+  },
+  {
+   "name": "bg-details.webp",
+   "url": "/templates/assets/storybook-sunset/bg-details.webp"
+  },
+  {
+   "name": "border-gold.webp",
+   "url": "/templates/assets/storybook-sunset/border-gold.webp"
+  },
+  {
+   "name": "castle.webp",
+   "url": "/templates/assets/storybook-sunset/castle.webp"
+  },
+  {
+   "name": "cloud-a.webp",
+   "url": "/templates/assets/storybook-sunset/cloud-a.webp"
+  },
+  {
+   "name": "cloud-b.webp",
+   "url": "/templates/assets/storybook-sunset/cloud-b.webp"
+  },
+  {
+   "name": "moon.webp",
+   "url": "/templates/assets/storybook-sunset/moon.webp"
+  },
+  {
+   "name": "sun.webp",
+   "url": "/templates/assets/storybook-sunset/sun.webp"
+  }
+ ],
+ "tangled": [
+  {
+   "name": "bg-cover.webp",
+   "url": "/templates/assets/tangled/bg-cover.webp"
+  },
+  {
+   "name": "bg-details.webp",
+   "url": "/templates/assets/tangled/bg-details.webp"
+  },
+  {
+   "name": "boat.webp",
+   "url": "/templates/assets/tangled/boat.webp"
+  },
+  {
+   "name": "castle.webp",
+   "url": "/templates/assets/tangled/castle.webp"
+  },
+  {
+   "name": "cloud-a.webp",
+   "url": "/templates/assets/tangled/cloud-a.webp"
+  },
+  {
+   "name": "cloud-b.webp",
+   "url": "/templates/assets/tangled/cloud-b.webp"
+  },
+  {
+   "name": "flowers.webp",
+   "url": "/templates/assets/tangled/flowers.webp"
+  },
+  {
+   "name": "hero-lantern.webp",
+   "url": "/templates/assets/tangled/hero-lantern.webp"
+  },
+  {
+   "name": "lantern-b.webp",
+   "url": "/templates/assets/tangled/lantern-b.webp"
+  },
+  {
+   "name": "lantern-pair.webp",
+   "url": "/templates/assets/tangled/lantern-pair.webp"
+  },
+  {
+   "name": "sparks.webp",
+   "url": "/templates/assets/tangled/sparks.webp"
+  },
+  {
+   "name": "sun-emblem.webp",
+   "url": "/templates/assets/tangled/sun-emblem.webp"
+  },
+  {
+   "name": "tower.webp",
+   "url": "/templates/assets/tangled/tower.webp"
+  },
+  {
+   "name": "vine.webp",
+   "url": "/templates/assets/tangled/vine.webp"
+  }
+ ]
+}

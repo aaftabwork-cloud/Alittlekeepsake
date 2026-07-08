@@ -1,0 +1,56 @@
+[
+ {
+  "slug": "storybook-night",
+  "name": "Storybook Night",
+  "file": "/templates/storybook-night.json",
+  "thumb": "/templates/assets/storybook-night/bg-cover.webp"
+ },
+ {
+  "slug": "storybook-sunset",
+  "name": "Storybook Sunset",
+  "file": "/templates/storybook-sunset.json",
+  "thumb": "/templates/assets/storybook-sunset/bg-cover.webp"
+ },
+ {
+  "slug": "tangled",
+  "name": "Tangled Lanterns",
+  "file": "/templates/tangled.json",
+  "thumb": "/templates/assets/tangled/bg-cover.webp"
+ },
+ {
+  "slug": "enchanted-arch",
+  "name": "Enchanted Arch",
+  "file": "/templates/enchanted-arch.json",
+  "thumb": "/templates/assets/enchanted-arch/bg.webp"
+ },
+ {
+  "slug": "moonlit-lotus",
+  "name": "Moonlit Lotus",
+  "file": "/templates/moonlit-lotus.json",
+  "thumb": "/templates/assets/lotus/1-c-moon.jpg"
+ },
+ {
+  "slug": "celestial-abdullah-sarah",
+  "name": "Celestial — Abdullah & Sarah",
+  "file": "/templates/celestial-abdullah-sarah.json",
+  "thumb": "/templates/assets/celestial/cutouts/il-doves.png"
+ },
+ {
+  "slug": "moonlit-lotus-abdullah-sarah",
+  "name": "Moonlit Lotus — Abdullah & Sarah",
+  "file": "/templates/moonlit-lotus-abdullah-sarah.json",
+  "thumb": "/templates/assets/lotus/cutouts/orn-medallion-moon.png"
+ },
+ {
+  "slug": "gatsby-nights",
+  "name": "Gatsby Nights",
+  "file": "/templates/gatsby-nights.json",
+  "thumb": "/templates/assets/gatsby/c-marquee.webp"
+ },
+ {
+  "slug": "sample",
+  "name": "Ayla & Zayan — Nikkah (sample)",
+  "file": "/sample-invite.json",
+  "thumb": ""
+ }
+]

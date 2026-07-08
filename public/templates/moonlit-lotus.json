@@ -1,0 +1,471 @@
+{
+ "name": "Moonlit Lotus",
+ "format": "mobile",
+ "bg": "#0d1b3a",
+ "bands": [
+  {
+   "id": "moon",
+   "bg": "/templates/assets/lotus/1-c-moon.jpg",
+   "label": "Moon",
+   "height": 690,
+   "color": "#0d1b3a"
+  },
+  {
+   "id": "stars",
+   "bg": "/templates/assets/lotus/2-c-stars.jpg",
+   "label": "Stars",
+   "height": 690,
+   "color": "#0d1b3a"
+  },
+  {
+   "id": "clouds",
+   "bg": "/templates/assets/lotus/3-c-clouds.jpg",
+   "label": "Clouds",
+   "height": 690,
+   "color": "#0d1b3a"
+  },
+  {
+   "id": "lake",
+   "bg": "/templates/assets/lotus/4-c-lake.jpg",
+   "label": "Lake",
+   "height": 690,
+   "color": "#0d1b3a"
+  },
+  {
+   "id": "water",
+   "bg": "/templates/assets/lotus/5-c-water.jpg",
+   "label": "Water",
+   "height": 690,
+   "color": "#0d1b3a"
+  },
+  {
+   "id": "lotus",
+   "bg": "/templates/assets/lotus/6-c-lotus.jpg",
+   "label": "Lotus",
+   "height": 690,
+   "color": "#0d1b3a"
+  }
+ ],
+ "layout": [
+  {
+   "type": "text",
+   "text": "BENEATH A DECEMBER MOON",
+   "x": 35,
+   "y": 294,
+   "w": 320,
+   "fontSize": 11,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#cdd8ee",
+   "textAlign": "center",
+   "charSpacing": 380
+  },
+  {
+   "type": "text",
+   "text": "ABDULLAH",
+   "x": 35,
+   "y": 330,
+   "w": 320,
+   "fontSize": 42,
+   "fontFamily": "Prata, serif",
+   "fill": "#f2ecdf",
+   "textAlign": "center",
+   "custom": true,
+   "field": "groom_name"
+  },
+  {
+   "type": "text",
+   "text": "&",
+   "x": 35,
+   "y": 384,
+   "w": 320,
+   "fontSize": 54,
+   "fontFamily": "Great Vibes, cursive",
+   "fill": "#e7a6c0",
+   "textAlign": "center"
+  },
+  {
+   "type": "text",
+   "text": "SARAH",
+   "x": 35,
+   "y": 440,
+   "w": 320,
+   "fontSize": 42,
+   "fontFamily": "Prata, serif",
+   "fill": "#f2ecdf",
+   "textAlign": "center",
+   "custom": true,
+   "field": "bride_name"
+  },
+  {
+   "type": "text",
+   "text": "21 · 12 · 2026",
+   "x": 35,
+   "y": 512,
+   "w": 320,
+   "fontSize": 16,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#e7d9b8",
+   "textAlign": "center",
+   "charSpacing": 200,
+   "custom": true,
+   "field": "wedding_date"
+  },
+  {
+   "type": "text",
+   "text": "BERLIN",
+   "x": 35,
+   "y": 546,
+   "w": 320,
+   "fontSize": 12,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#9fb3d8",
+   "textAlign": "center",
+   "charSpacing": 500,
+   "custom": true,
+   "field": "city"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-crane-fly.png",
+   "x": 28,
+   "y": 196,
+   "w": 96,
+   "motion": "animated",
+   "anim": "glide"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-star-cluster.png",
+   "x": 296,
+   "y": 236,
+   "w": 70,
+   "blend": "screen",
+   "opacity": 0.9,
+   "motion": "animated",
+   "anim": "twinkle"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/orn-medallion-moon.png",
+   "x": 160,
+   "y": 760,
+   "w": 70,
+   "opacity": 0.95
+  },
+  {
+   "type": "text",
+   "text": "WITH THE BLESSINGS OF OUR FAMILIES",
+   "x": 35,
+   "y": 884,
+   "w": 320,
+   "fontSize": 11,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#cdd8ee",
+   "textAlign": "center",
+   "charSpacing": 220
+  },
+  {
+   "type": "text",
+   "text": "we invite you to an evening\nwritten beneath the stars",
+   "x": 35,
+   "y": 920,
+   "w": 320,
+   "fontSize": 20,
+   "fontFamily": "Spectral, serif",
+   "fill": "#eef2fb",
+   "textAlign": "center",
+   "fontStyle": "italic"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/orn-divider-lotus.png",
+   "x": 75,
+   "y": 1052,
+   "w": 240,
+   "opacity": 0.95
+  },
+  {
+   "type": "text",
+   "text": "two souls · one promise",
+   "x": 35,
+   "y": 1176,
+   "w": 320,
+   "fontSize": 12,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#e7a6c0",
+   "textAlign": "center",
+   "charSpacing": 320
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-shooting-star.png",
+   "x": 210,
+   "y": 1240,
+   "w": 150,
+   "blend": "screen",
+   "opacity": 0.9,
+   "motion": "animated",
+   "anim": "streak"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-crescent.png",
+   "x": 292,
+   "y": 1428,
+   "w": 64,
+   "blend": "screen",
+   "motion": "animated",
+   "anim": "twinkle"
+  },
+  {
+   "type": "text",
+   "text": "SAVE THE EVENING",
+   "x": 35,
+   "y": 1548,
+   "w": 320,
+   "fontSize": 11,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#e7d9b8",
+   "textAlign": "center",
+   "charSpacing": 460
+  },
+  {
+   "type": "text",
+   "text": "21 December 2026",
+   "x": 35,
+   "y": 1584,
+   "w": 320,
+   "fontSize": 34,
+   "fontFamily": "Prata, serif",
+   "fill": "#f2ecdf",
+   "textAlign": "center",
+   "custom": true,
+   "field": "date_long"
+  },
+  {
+   "type": "text",
+   "text": "as the moon rises over Berlin",
+   "x": 35,
+   "y": 1648,
+   "w": 320,
+   "fontSize": 17,
+   "fontFamily": "Spectral, serif",
+   "fill": "#cdd8ee",
+   "textAlign": "center",
+   "fontStyle": "italic"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/orn-cloud-wisp.png",
+   "x": 0,
+   "y": 1870,
+   "w": 390,
+   "blend": "screen",
+   "opacity": 0.55,
+   "motion": "animated",
+   "anim": "drift-x"
+  },
+  {
+   "type": "text",
+   "text": "THE CELEBRATION",
+   "x": 35,
+   "y": 2136,
+   "w": 320,
+   "fontSize": 11,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#cdd8ee",
+   "textAlign": "center",
+   "charSpacing": 480
+  },
+  {
+   "type": "text",
+   "text": "Nikah & Dinner",
+   "x": 35,
+   "y": 2170,
+   "w": 320,
+   "fontSize": 28,
+   "fontFamily": "Prata, serif",
+   "fill": "#f2ecdf",
+   "textAlign": "center",
+   "custom": true,
+   "field": "event_name"
+  },
+  {
+   "type": "text",
+   "text": "five o'clock in the evening",
+   "x": 35,
+   "y": 2222,
+   "w": 320,
+   "fontSize": 16,
+   "fontFamily": "Spectral, serif",
+   "fill": "#dbe4f5",
+   "textAlign": "center",
+   "fontStyle": "italic",
+   "custom": true,
+   "field": "event_time"
+  },
+  {
+   "type": "text",
+   "text": "SEEHAUS AM WANNSEE · BERLIN",
+   "x": 35,
+   "y": 2262,
+   "w": 320,
+   "fontSize": 12,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#e7d9b8",
+   "textAlign": "center",
+   "charSpacing": 220,
+   "custom": true,
+   "field": "venue"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/il-swans.png",
+   "x": 42,
+   "y": 2596,
+   "w": 104,
+   "motion": "animated",
+   "anim": "glide"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-lantern.png",
+   "x": 318,
+   "y": 2598,
+   "w": 52,
+   "motion": "animated",
+   "anim": "bob-rotate"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-ripple.png",
+   "x": 20,
+   "y": 2688,
+   "w": 130,
+   "opacity": 0.65,
+   "motion": "animated",
+   "anim": "ripple"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-dragonfly.png",
+   "x": 64,
+   "y": 2940,
+   "w": 64,
+   "motion": "animated",
+   "anim": "dart"
+  },
+  {
+   "type": "text",
+   "text": "\"In still waters,\nlove blooms brightest.\"",
+   "x": 35,
+   "y": 3060,
+   "w": 320,
+   "fontSize": 21,
+   "fontFamily": "Spectral, serif",
+   "fill": "#eef2fb",
+   "textAlign": "center",
+   "fontStyle": "italic"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-koi.png",
+   "x": 238,
+   "y": 3240,
+   "w": 120,
+   "opacity": 0.9,
+   "motion": "animated",
+   "anim": "swim"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-leaf-floating.png",
+   "x": 296,
+   "y": 3140,
+   "w": 72,
+   "opacity": 0.9,
+   "motion": "animated",
+   "anim": "bob"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-diya.png",
+   "x": 150,
+   "y": 3372,
+   "w": 56,
+   "motion": "animated",
+   "anim": "bob-rotate"
+  },
+  {
+   "type": "text",
+   "text": "R S V P",
+   "x": 35,
+   "y": 3566,
+   "w": 320,
+   "fontSize": 30,
+   "fontFamily": "Prata, serif",
+   "fill": "#f2ecdf",
+   "textAlign": "center",
+   "charSpacing": 400
+  },
+  {
+   "type": "text",
+   "text": "kindly respond by the first of December",
+   "x": 35,
+   "y": 3622,
+   "w": 320,
+   "fontSize": 16,
+   "fontFamily": "Spectral, serif",
+   "fill": "#dbe4f5",
+   "textAlign": "center",
+   "fontStyle": "italic",
+   "custom": true,
+   "field": "rsvp_note"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-lotus-trio.png",
+   "x": 130,
+   "y": 3700,
+   "w": 130,
+   "motion": "animated",
+   "anim": "bloom-pulse"
+  },
+  {
+   "type": "img",
+   "src": "/templates/assets/lotus/cutouts/motif-firefly-cluster.png",
+   "x": 36,
+   "y": 3770,
+   "w": 110,
+   "blend": "screen",
+   "opacity": 0.9,
+   "motion": "animated",
+   "anim": "flicker"
+  },
+  {
+   "type": "text",
+   "text": "#AbdullahWedsSarah",
+   "x": 35,
+   "y": 3930,
+   "w": 320,
+   "fontSize": 14,
+   "fontFamily": "Tenor Sans, sans-serif",
+   "fill": "#e7a6c0",
+   "textAlign": "center",
+   "charSpacing": 140,
+   "custom": true,
+   "field": "hashtag"
+  },
+  {
+   "type": "text",
+   "text": "come bloom with us",
+   "x": 35,
+   "y": 3978,
+   "w": 320,
+   "fontSize": 26,
+   "fontFamily": "Great Vibes, cursive",
+   "fill": "#e7a6c0",
+   "textAlign": "center"
+  }
+ ]
+}
